@@ -6,6 +6,7 @@ public class Gato {
     private String nome;
     private String cor;
     private Integer idade;
+    private Integer numPaginas;
 
     public Gato() {}
 
